@@ -7,6 +7,8 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=0x580x540x43&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Most Used Languages analytics" width="500"/>
 </p>
 
+![snake gif](https://github.com/0x580x540x43/0x580x540x43/blob/output/github-contribution-grid-snake.svg)
+
 ---
 
 <!-- About Me Section -->
