@@ -1,6 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=4000&color=FF3088F1&lines=Hello%2C+I'm+Moon;Welcome+to+my+GitHub+profile;Here+you'll+find+my+awful+projects)](https://git.io/typing-svg)
-
-<!-- Skills as a table -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=6000&color=FF3088F1&lines=Hello%2C+I'm+Moon;Welcome+to+my+GitHub+profile;Here+you'll+find+my+awful+projects)](https://git.io/typing-svg)
 
 <!-- Github Stats-->
 <p align="center">
@@ -25,7 +23,7 @@
 
 💬 Ask me about **Lua** and **Luau**
 
-📫 How to reach me: **royrustdev@gmail.com**
+📫 How to reach me: **Moon#9601 (858557060563992617)**
 
 <br />
 <!-- Contact Section -->
