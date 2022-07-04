@@ -1,5 +1,3 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=6000&color=FF3088F1&lines=Hello%2C+I'm+Moon;Welcome+to+my+GitHub+hellscape;)](https://git.io/typing-svg)
-
 <!-- About Me Section -->
 
 ## About me
