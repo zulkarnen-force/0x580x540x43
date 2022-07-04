@@ -9,8 +9,6 @@
 
 ![snake gif](https://github.com/0x580x540x43/0x580x540x43/blob/output/github-contribution-grid-snake.svg)
 
----
-
 <!-- About Me Section -->
 
 ## About Me
@@ -18,7 +16,5 @@
 🌱 I’m currently learning **Lua**, **C** & **JavaScript**
 
 👯 I’m looking to _collaborate_ on **Luau** projects
-
-🤔 I’m looking for help with **C** and **JavaScript**
 
 💬 Contact me via Discord: **Moon#9601 (858557060563992617)**
