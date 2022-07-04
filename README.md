@@ -13,21 +13,10 @@
 
 ## About Me
 
-🔭 I’m currently working on **Bad Projects**
-
 🌱 I’m currently learning **Lua**, **C** & **JavaScript**
 
 👯 I’m looking to _collaborate_ on **Luau** projects
 
 🤔 I’m looking for help with **C** and **JavaScript**
 
-💬 Ask me about **Lua** and **Luau**
-
-📫 How to reach me: **Moon#9601 (858557060563992617)**
-
-<br />
-<!-- Contact Section -->
-
-<p align="center"><b>Thank You for visiting my profile 🙏</b></p>
-
----
+💬 Contact me via Discord: **Moon#9601 (858557060563992617)**
