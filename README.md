@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=6000&color=FF3088F1&lines=Hello%2C+I'm+Moon;Welcome+to+my+GitHub+profile;Here+you'll+find+my+awful+projects)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=6000&color=FF3088F1&lines=Hello%2C+I'm+Moon;Welcome+to+my+GitHub+hellscape;)](https://git.io/typing-svg)
 
 <!-- Github Stats-->
 <p align="center">
