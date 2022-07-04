@@ -1,6 +1,5 @@
 <!-- About Me Section -->
 
-## About me
 
 🌱 I’m currently learning **Lua**, **C** & **JavaScript**
 
@@ -8,7 +7,6 @@
 
 💬 Contact me via Discord: **Moon#9601 (858557060563992617)**
 
-## Stats
 
 <!-- Github Stats-->
 <p align="center">
@@ -16,7 +14,5 @@
 <img src="https://github-readme-streak-stats.herokuapp.com?user=0x580x540x43&theme=radical" width="500"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=0x580x540x43&show_icons=true&locale=en&layout=compact&theme=radical" alt="Most Used Languages analytics" width="500"/>
 </p>
-
-## SNAKE!
 
 ![snake gif](https://github.com/0x580x540x43/0x580x540x43/blob/output/github-contribution-grid-snake.svg)
