@@ -2,8 +2,6 @@
 
 <!-- About Me Section -->
 
-## About Me
-
 🌱 I’m currently learning **Lua**, **C** & **JavaScript**
 
 👯 I’m looking to _collaborate_ on **Luau** projects
