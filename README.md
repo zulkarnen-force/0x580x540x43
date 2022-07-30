@@ -14,8 +14,4 @@
 
 ## About Me
 
-🌱 I’m currently learning **Lua**, **C** & **JavaScript**
-
-👯 I’m looking to _collaborate_ on **Luau** projects
-
 💬 Contact me via Discord: **Moon#9601 (858557060563992617)**
